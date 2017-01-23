@@ -1,0 +1,27 @@
+body {
+    background-image:url(" https://img.clipartfest.com/b15685bbb4a58b53e23f842698228fcf_spiral-notebook-paper-page-spiral-notebook-paper-clipart_846-1100.jpeg ");
+background-size:100%;
+font-family:Times;
+}
+img
+{size:contain;}
+button
+{
+background-color:#EDEDF7 ;
+border-color:red;
+border-radius:50%;
+border-width:1px;
+font-family:Times;
+}
+input
+{
+   background-color:#EDEDF7;
+   border-color:red;
+   border-width:1px;
+}
+dl
+{
+   list-style-type:square;
+   list-style-align:left;
+   padding-left:50px;
+}
